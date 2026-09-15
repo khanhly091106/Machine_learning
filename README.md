@@ -27,17 +27,4 @@ Bao gồm các dự án áp dụng kiến thức Machine Learning vào việc gi
 
 ---
 
-## 📁 Cấu trúc Repository
-
-```text
-Machine-Learning/
-│
-├── Exercises/          # Bài tập
-├── Projects/           # Dự án
-│
-└── README.md
-```
-
----
-
 ⭐ **Vương Khánh Ly | 66TTNT1 | Đại học Thủy lợi**
